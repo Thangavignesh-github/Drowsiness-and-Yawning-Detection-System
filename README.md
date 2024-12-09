@@ -64,3 +64,6 @@ Once the Flask application is running, open your web browser and navigate to the
 ```bash
 http://127.0.0.1:5000/
 ```
+
+![Drowsiness Detection System](drowsiness_image.jpg)
+![Yawning Detection System](yawning_image.jpg)
